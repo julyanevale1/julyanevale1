@@ -31,3 +31,6 @@ Developing since 16y, bachelor's in Internet Systems Developement, specialist in
 [<img alt="woo" src="https://img.shields.io/badge/woo%20-%2396588A.svg?&style=for-the-badge&logo=woo&logoColor=white"/>]()
 [<img alt="vtex" src="https://img.shields.io/badge/vtex%20-%23ED125F.svg?&style=for-the-badge&logo=vtex&logoColor=white"/>]()
 
+## 📈 Github Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julyanevale1&theme=default)
+
